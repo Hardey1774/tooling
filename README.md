@@ -32,6 +32,8 @@ Update the application code in
 
 Then add/commit/push to gitlab
 
+hello jenkins
+
 ```
 git status # to see your changes
 ```
